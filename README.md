@@ -1,9 +1,20 @@
-## Oiii eu sou Jonatas, Estudante de programação e tecnologia!
+<div align="center">
+  <h1>Olá, eu sou o Jonatas 👋</h1>
 
-<div>
-  <a href="https://github.com/Jonatasgit23">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonatasgit23&show_icons=true&theme-tokyonight&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonatasgit23&layout=compact&langs_count=16&theme=tokyonight"/>
+  <p>
+    Desenvolvedor apaixonado por tecnologia, programação e sempre em busca de novos desafios!
+  </p>
+
+  <br/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonatasgit23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonatasgit23&layout=compact&langs_count=10&theme=tokyonight"/>
+
+  <br/><br/>
+
+  <p>
+    🔗 Me siga no <a href="https://github.com/Jonatasgit23" target="_blank">GitHub</a>
+  </p>
 </div>
 
 
