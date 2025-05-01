@@ -49,6 +49,6 @@
 
   <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Jonatasgit23/Jonatasgit23/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Jonatasgit23/Jonatasgit23/output/github-contribution-grid-snake-dark.svg" alt="Snake animation dark" />
 
 </div>
