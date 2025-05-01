@@ -3,7 +3,7 @@
   <h1 style="color: #D3D3D3;">Olá, eu sou o Jonatas 👋</h1>
 
   <p style="color: #D3D3D3;">
-    Desenvolvedor apaixonado por tecnologia, programação e inovação.
+    Sou um desenvolvedor apaixonado por tecnologia, programação e inovação. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades. Atualmente, estou estudando **Desenvolvimento de Sistemas** no **Senai Cimatec**, onde continuo a expandir meu conhecimento e aprimorar meu potencial para criar soluções de software de alta qualidade.
   </p>
 
   <br/>
@@ -13,7 +13,10 @@
 
   <br/><br/>
 
-  <h3 style="color: #D3D3D3;">🛠️ Tecnologias</h3>
+  <h3 style="color: #D3D3D3;">🛠️ Tecnologias que uso</h3>
+  <p style="color: #D3D3D3;">
+    Tenho experiência em várias tecnologias, sempre focando em melhorar e me adaptar às novas ferramentas do mercado:
+  </p>
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript"/>
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript"/>
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"/>
@@ -21,7 +24,10 @@
 
   <br/><br/>
 
-  <h3 style="color: #D3D3D3;">📬 Contato</h3>
+  <h3 style="color: #D3D3D3;">📬 Entre em contato</h3>
+  <p style="color: #D3D3D3;">
+    Se você está procurando um desenvolvedor dedicado e apaixonado, ou se deseja trocar ideias sobre tecnologia, estou disponível para conversar! Entre em contato:
+  </p>
   <a href="https://instagram.com/jona.tas879" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
@@ -37,5 +43,3 @@
   <img src="https://github.com/Jonatasgit23/Jonatasgit23/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation dark"/>
 
 </div>
-
-
