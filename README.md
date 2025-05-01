@@ -2,7 +2,7 @@
 
   <table align="center">
     <tr>
-      <td><h1 style="color: #D3D3D3;">Olá, eu sou o Jonatas 👋</h1></td>
+      <td><h1 style="color: #D3D3D3;">Olá, eu sou o Jonatas </h1></td>
       <td><img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="120" alt="GIF animado" /></td>
     </tr>
   </table>
