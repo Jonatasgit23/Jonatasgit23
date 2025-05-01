@@ -2,8 +2,8 @@ name: generate animation
 
 on:
   schedule:
-    - cron: "0 */24 * * *" 
-  
+    - cron: "0 */24 * * *"  # Executa a cada 24h
+
   workflow_dispatch:
   
   push:
@@ -16,19 +16,22 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-    
+
     steps:
-      - name: generate github-contribution-grid-snake.svg
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate snake with dark background and green snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg
         env:
-          COLOR_SNAKE: '#00FF00'  # cobra verde 💚
+          COLOR_SNAKE: '#00FF00'  # verde
+          BACK_COLOR: '#000000'  # fundo preto
           
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
