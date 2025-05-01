@@ -1,7 +1,9 @@
-<div align="center">
-
- <h1 style="color: #D3D3D3;">Olá, eu sou o Jonatas 👋</h1>
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Animação de algoritmo" />
+<table align="center">
+  <tr>
+    <td><h1 style="color: #D3D3D3;">Olá, eu sou o Jonatas 👋</h1></td>
+    <td><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="120" alt="GIF animado" /></td>
+  </tr>
+</table>
 
   <p style="color: #D3D3D3;">
     Sou um desenvolvedor apaixonado por tecnologia, programação e inovação. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades. Atualmente, estou estudando **Desenvolvimento de Sistemas** no **Senai Cimatec**, onde continuo a expandir meu conhecimento e aprimorar meu potencial para criar soluções de software de alta qualidade.
