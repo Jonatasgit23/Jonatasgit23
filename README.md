@@ -3,7 +3,7 @@
   <table align="center">
     <tr>
       <td><h1 style="color: #D3D3D3;">Olá, eu sou o Jonatas 👋</h1></td>
-      <td><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="120" alt="GIF animado" /></td>
+      <td><img src="https://giphy.com/gifs/gptv-code-coding-hacking-jTNG3RF6EwbkpD4LZx" width="120" alt="GIF animado" /></td>
     </tr>
   </table>
 
