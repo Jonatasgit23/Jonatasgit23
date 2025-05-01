@@ -1,4 +1,4 @@
-<div align="center" style="background-color:#6F4E37; padding: 20px; border-radius: 10px; color: #D3D3D3;">
+<div align="center">
 
   <h1 style="color: #D3D3D3;">Olá, eu sou o Jonatas 👋</h1>
 
