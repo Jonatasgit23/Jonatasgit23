@@ -7,13 +7,11 @@
 
   <br/>
 
-  <!-- GitHub Stats -->
   <img width="420" src="https://github-readme-stats.vercel.app/api?username=Jonatasgit23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonatasgit23&layout=compact&langs_count=10&theme=tokyonight"/>
 
   <br/><br/>
 
-  <!-- Tecnologias -->
   <div>
     <h3>Tecnologias que eu uso:</h3>
     <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,7 +22,6 @@
 
   <br/><br/>
 
-  <!-- Contato -->
   <div>
     <h3>Entre em contato:</h3>
     <a href="https://instagram.com/jona.tas879" target="_blank">
