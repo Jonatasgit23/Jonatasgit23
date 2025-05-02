@@ -49,6 +49,8 @@
 
   <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Jonatasgit23/Jonatasgit23/output/github-contribution-grid-snake-dark.svg" alt="Snake animation dark" />
+# Jogo da Cobrinha
+
+![Snake Game](images/snake_black_background.gif)
 
 </div>
