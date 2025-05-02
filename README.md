@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="background-color: black; color: white; padding: 20px; border-radius: 10px;">
 
   <table align="center">
     <tr>
@@ -7,18 +7,14 @@
     </tr>
   </table>
 
-</div>
-
-<div align="center">
-
   <p style="color: #D3D3D3;">
     Sou um desenvolvedor apaixonado por tecnologia, programação e inovação. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades. Atualmente, estou estudando <strong>Desenvolvimento de Sistemas</strong> no <strong>Senai Cimatec</strong>, onde continuo a expandir meu conhecimento e aprimorar meu potencial para criar soluções de software de alta qualidade.
   </p>
 
   <br/>
 
- <img width="420" src="https://github-readme-stats.vercel.app/api?username=Jonatasgit23&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonatasgit23&layout=compact&langs_count=10&theme=merko"/>
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=Jonatasgit23&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonatasgit23&layout=compact&langs_count=10&theme=merko"/>
 
   <br/><br/>
 
@@ -49,8 +45,7 @@
 
   <br/><br/>
 
-# Jogo da Cobrinha
-
-![Snake Game](images/snake_black_background.gif)
+  <h2 style="color: #D3D3D3;">Jogo da Cobrinha</h2>
+  <img src="images/snake_black_background.gif" alt="Snake Game" width="500"/>
 
 </div>
