@@ -1,13 +1,13 @@
-<div align="center" style="background-color: black; color: white; padding: 20px; border-radius: 10px;">
+<div align="center">
 
   <table align="center">
     <tr>
-      <td><h1 style="color: #D3D3D3;">Olá, eu sou o Jonatas </h1></td>
+      <td><h1>Olá, eu sou o Jonatas</h1></td>
       <td><img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="120" alt="GIF animado" /></td>
     </tr>
   </table>
 
-  <p style="color: #D3D3D3;">
+  <p>
     Sou um desenvolvedor apaixonado por tecnologia, programação e inovação. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades. Atualmente, estou estudando <strong>Desenvolvimento de Sistemas</strong> no <strong>Senai Cimatec</strong>, onde continuo a expandir meu conhecimento e aprimorar meu potencial para criar soluções de software de alta qualidade.
   </p>
 
@@ -18,8 +18,8 @@
 
   <br/><br/>
 
-  <h3 style="color: #D3D3D3;">🛠️ Tecnologias que uso</h3>
-  <p style="color: #D3D3D3;">
+  <h3>🛠️ Tecnologias que uso</h3>
+  <p>
     Tenho experiência em várias tecnologias, sempre focando em melhorar e me adaptar às novas ferramentas do mercado:
   </p>
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript"/>
@@ -29,8 +29,8 @@
 
   <br/><br/>
 
-  <h3 style="color: #D3D3D3;">📬 Entre em contato</h3>
-  <p style="color: #D3D3D3;">
+  <h3>📬 Entre em contato</h3>
+  <p>
     Se você está procurando um desenvolvedor dedicado e apaixonado, ou se deseja trocar ideias sobre tecnologia, estou disponível para conversar! Entre em contato:
   </p>
   <a href="https://instagram.com/jona.tas879" target="_blank">
@@ -45,7 +45,7 @@
 
   <br/><br/>
 
-  <h2 style="color: #D3D3D3;">Jogo da Cobrinha</h2>
+  <h2>Jogo da Cobrinha</h2>
   <img src="images/snake_black_background.gif" alt="Snake Game" width="500"/>
 
 </div>
