@@ -45,8 +45,8 @@
 
   <br/><br/>
 
-  <h2>Jogo da Cobrinha</h2>
- ### Jogo da Cobrinha dos Commits
+  
+ 
 
 ![snake gif](https://github.com/Jonatasgit23/Jonatasgit23/blob/output/github-contribution-grid-snake.svg)
 
