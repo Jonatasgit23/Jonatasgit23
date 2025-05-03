@@ -5,7 +5,7 @@ on:
     - cron: "0 */24 * * *"  # Executa a cada 24h
 
   workflow_dispatch:
-  
+
   push:
     branches:
       - master
@@ -28,9 +28,19 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake-dark.svg
         env:
-          COLOR_SNAKE: '#00FF00'  # verde
-          BACK_COLOR: '#000000'  # fundo preto
-          
+          COLOR_SNAKE: '#00FF00'
+          BACK_COLOR: '#000000'
+
+      - name: Generate snake with transparent background
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+        env:
+          COLOR_SNAKE: '#00FF00'
+          BACK_COLOR: 'transparent'  # <-- fundo transparente aqui
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
