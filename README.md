@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+apaixonado+por+tecnologia;Buscando+novos+desafios+sempre;Bem-vindo+ao+meu+perfil!&center=true&size=20">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+apaixonado+por+tecnologia;Buscando+novos+desafios+sempre;Bem-vindo+ao+meu+perfil!&center=true&size=20&width=600">
 </h3>
 
 <p align="center">
