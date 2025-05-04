@@ -4,10 +4,9 @@
   <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="100" alt="GIF animado" />
 </p>
 
-<p align="center">
-  Desenvolvedor apaixonado por <strong>tecnologia</strong>, <strong>programação</strong> e <strong>inovação</strong>. <br/>
-  Sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades.
-</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+apaixonado+por+tecnologia;Buscando+novos+desafios+sempre;Bem-vindo+ao+meu+perfil!&center=true&size=20">
+</h3>
 
 <p align="center">
   Atualmente estudando <strong>Desenvolvimento de Sistemas</strong> no <strong>Senai Cimatec</strong>.
@@ -32,7 +31,12 @@ Sou um desenvolvedor comprometido com a entrega de soluções de software eficie
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Status & Estatísticas
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jonatasgit23&style=for-the-badge&color=blue" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Jonatasgit23?style=for-the-badge&color=lightblue" alt="Followers" />
+</p>
 
 <p align="center">
   <img width="420" src="https://github-readme-stats.vercel.app/api?username=Jonatasgit23&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
@@ -62,3 +66,19 @@ Sou um desenvolvedor comprometido com a entrega de soluções de software eficie
 <div align="center">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jonatasgit23/Jonatasgit23/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
 </div>
+
+---
+
+## 🌟 Um pouco mais de mim...
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/3o7aCVpTrIEbJYZRep/giphy.gif" width="200" />
+</p>
+
+---
+
+<p align="center">
+  Feito com ❤️ por Jonatas
+</p>
