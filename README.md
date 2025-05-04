@@ -2,13 +2,17 @@
 
   <table align="center">
     <tr>
-      <td><h1>Olá, eu sou o Jonatas</h1></td>
+      <td><h1>Olá, eu sou o Jonatas 👋</h1></td>
       <td><img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="120" alt="GIF animado" /></td>
     </tr>
   </table>
 
   <p>
-    Sou um desenvolvedor apaixonado por tecnologia, programação e inovação. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades. Atualmente, estou estudando <strong>Desenvolvimento de Sistemas</strong> no <strong>Senai Cimatec</strong>, onde continuo a expandir meu conhecimento e aprimorar meu potencial para criar soluções de software de alta qualidade.
+    Sou um <strong>Desenvolvedor de Software</strong> com foco em soluções web e mobile. Com uma base sólida em programação e constante evolução técnica, atuo com responsabilidade, criatividade e visão estratégica para transformar ideias em sistemas robustos e eficientes.
+  </p>
+
+  <p>
+    Atualmente, estudo <strong>Desenvolvimento de Sistemas</strong> no <strong>SENAI CIMATEC</strong> e busco constantemente aprimorar minha capacidade de resolver problemas reais com tecnologia.
   </p>
 
   <br/>
@@ -18,20 +22,31 @@
 
   <br/><br/>
 
-  <h3>🛠️ Tecnologias que uso</h3>
+  <h3>🧰 Tecnologias e Ferramentas</h3>
   <p>
-    Tenho experiência em várias tecnologias, sempre focando em melhorar e me adaptar às novas ferramentas do mercado:
+    Trabalho com uma stack moderna e versátil, adaptando soluções conforme a demanda de cada projeto:
   </p>
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript"/>
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript"/>
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"/>
   <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"/>
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"/>
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js"/>
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"/>
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"/>
 
   <br/><br/>
 
-  <h3>📬 Entre em contato</h3>
+  <h3>📈 Em constante evolução</h3>
   <p>
-    Se você está procurando um desenvolvedor dedicado e apaixonado, ou se deseja trocar ideias sobre tecnologia, estou disponível para conversar! Entre em contato:
+    Acredito que a excelência técnica vem da prática constante e do aprendizado contínuo. Por isso, estou sempre explorando novas tecnologias, participando de comunidades, contribuindo com projetos e mentorando colegas desenvolvedores.
+  </p>
+
+  <br/>
+
+  <h3>📬 Vamos nos conectar</h3>
+  <p>
+    Se você procura um desenvolvedor comprometido com resultados e qualidade, ou quer trocar ideias sobre tecnologia, entre em contato:
   </p>
   <a href="https://instagram.com/jona.tas879" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -45,5 +60,6 @@
 
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/Jonatasgit23/Jonatasgit23/output/dist/github-contribution-grid-snake.svg)
+---
 
+![Snake animation](https://raw.githubusercontent.com/Jonatasgit23/Jonatasgit23/output/dist/github-contribution-grid-snake.svg)
