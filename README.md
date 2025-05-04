@@ -45,5 +45,5 @@
 
 </div>
 
-![Snake animation](https://github.com/Jonatasgit23/Jonatasgit23/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Jonatasgit23/Jonatasgit23/output/dist/github-contribution-grid-snake.svg)
 
