@@ -60,6 +60,6 @@ Sou um desenvolvedor comprometido com a entrega de soluções de software eficie
 ## 🐍 GitHub Contribution Snake
 
 <picture align="center">
-<img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jonatasgit23/Jonatasgit23/output/github-contribution-grid-snake-dark.svg">
+<img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jonatasgit23/Jonatasgit23/output/github-contribution-grid-snake-dark.svg?palette=github-dark">
 </picture>
 
