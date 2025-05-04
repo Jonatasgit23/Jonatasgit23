@@ -64,3 +64,4 @@ Sou um desenvolvedor comprometido com a entrega de soluções de software eficie
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jonatasgit23/Jonatasgit23/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jonatasgit23/Jonatasgit23/output/github-contribution-grid-snake.svg">
 </picture>
+
